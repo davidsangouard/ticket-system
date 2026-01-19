@@ -25,20 +25,6 @@ A minimalist ticketing system built with PHP, MySQL. Designed for efficient tick
 - Ticket oversight
 - Category and priority configuration
 
-### Interface
-- Dark theme design
-- Minimalist UI/UX
-- Responsive layout
-- Intuitive navigation
-- Real-time filters and search
-
-## Tech Stack
-
-- **Backend**: PHP 7.4+
-- **Database**: MySQL 5.7+ / MariaDB 10.2+
-- **Frontend**: Vanilla HTML5, CSS3, JavaScript
-- **Architecture**: MVC-inspired structure
-
 ## Database Schema
 
 ### Core Tables
