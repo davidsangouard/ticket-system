@@ -131,4 +131,4 @@ INSERT INTO categories (name, description, icon) VALUES
 
 -- Insert default admin user (password: admin123 - CHANGE THIS!)
 INSERT INTO users (username, email, password_hash, role, first_name, last_name) VALUES
-('admin', 'admin@ticketing.local', '$2y$10$92IXUNpkjO0rOQ5byMi.Ye4oKoEa3Ro9llC/.og/at2.uheWG/igi', 'admin', 'System', 'Administrator');
+('admin', 'admin@ticketing.local', '$2a$12$yDLtsgp9YYhj1llsF3RLv.Q/pdhbE09VR0SS0OW6.4C96RZnOO6t.', 'admin', 'System', 'Administrator');
