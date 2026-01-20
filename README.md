@@ -1,6 +1,6 @@
 # Ticket System
 
-A minimalist ticketing system built with PHP, MySQL. Designed for efficient ticket management with role-based access control.
+A ticketing system built with PHP, MySQL.
 
 ## Features
 
